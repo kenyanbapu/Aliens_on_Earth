@@ -1,0 +1,28 @@
+.form-group {
+    padding: 10px;
+}
+
+.jumbotron {
+    background-image: url('./UFO-on_Earth.jpg');
+    background-size: cover;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    border: solid rgb(88, 90, 89) 10px;
+    height: 100%;
+}
+
+
+/* 
+    html { 
+        background-image: url('./starry-sky.jpg');
+        background-repeat: no-repeat; 
+    } */
+
+body {
+    background-image: url('./starry_sky.jpg');
+    background-position: center center;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    /* background-size: cover; */
+    background-color: transparent;
+}
